@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f244afe2-2e30-4619-9d01-06a0d76908ce" name="Changes" comment="new mod" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5499d67f-f3cf-4ae7-a5e3-cd45b2e46762" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23PropKCnx7KkgMsjyEgbRBwGV7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ray\IdeaProjects\JavaTheCompleteReference\src\Chap5\IterationStatements\WhileLoop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ray\IdeaProjects\JavaTheCompleteReference\src\Chap5\IterationStatements\NoBodyCase" />
+      <recent name="C:\Users\ray\IdeaProjects\JavaTheCompleteReference\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BasicMath">
+    <configuration name="BasicMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1_The_Java_Language.Chap4.Operators.Arithmetic.BasicMath" />
+      <module name="JavaTheCompleteReference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1_The_Java_Language.Chap4.Operators.Arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Continue.Continue" />
+      <module name="JavaTheCompleteReference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Continue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continue_Label" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Continue.Continue_Label" />
+      <module name="JavaTheCompleteReference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Continue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Goto_Break_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Break.Goto.Goto_Break_2" />
+      <module name="JavaTheCompleteReference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Break.Goto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Return.Return" />
+      <module name="JavaTheCompleteReference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1_The_Java_Language.Chap5.Control_Statements.JumpStatements.Return.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicMath" />
+        <item itemvalue="Application.Return" />
+        <item itemvalue="Application.Continue_Label" />
+        <item itemvalue="Application.Continue" />
+        <item itemvalue="Application.Goto_Break_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ray\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f244afe2-2e30-4619-9d01-06a0d76908ce" name="Changes" comment="" />
+      <created>1641646753796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641646753796</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Chap 5 completed and Chap 4 Arithmetic 1st program done. This is my first commit to git local repository">
+      <created>1643377696290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643377696290</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chap 5 completed and Chap 4 Arithmetic 1st program done.">
+      <created>1643379600768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643379600768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new mod">
+      <created>1643381461698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643381461698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fb6f8471-a1da-4b31-addf-0552f0504c1b">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Chap 5 completed and Chap 4 Arithmetic 1st program done. This is my first commit to git local repository" />
+    <MESSAGE value="Chap 5 completed and Chap 4 Arithmetic 1st program done." />
+    <MESSAGE value="new mod" />
+    <option name="LAST_COMMIT_MESSAGE" value="new mod" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/SwitchStatements/IfElse.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/SwitchStatements/SampleSwitch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/SwitchStatements/MissingBreak.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/SwitchStatements/Switch.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/SwitchStatements/StringSwitch.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/SwitchStatements/SwitchNested.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/IterationStatements/WhileLoop/NoBodyCase/NoBodyWhile.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/IterationStatements/ForLoop/ForEach/ForEach3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/IterationStatements/ForLoop/FindPrime.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/IterationStatements/ForLoop/ForEach/Search.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/IterationStatements/ForLoop/NestedLoop/Nested.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/JumpStatements/Break/BreakLoop2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/JumpStatements/Continue/Continue.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part1_The_Java_Language/Chap5/Control_Statements/JumpStatements/Continue/Continue_Label.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="28" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaTheCompleteReference$IfElse.ic" NAME="IfElse Coverage Results" MODIFIED="1641648582258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Chap5.*</FILTER>
+    </SUITE>
+  </component>
+</project>
